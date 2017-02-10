@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[linitial]]></title>
+  <link href="http://cherishforever.github.io/atom.xml" rel="self"/>
+  <link href="http://cherishforever.github.io/"/>
+  <updated>2017-02-10T17:45:59+08:00</updated>
+  <id>http://cherishforever.github.io/</id>
+  <author>
+    <name><![CDATA[linitial]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[序]]></title>
+    <link href="http://cherishforever.github.io/blog/2017/02/09/di-%5B%3F%5D-pian/"/>
+    <updated>2017-02-09T17:04:27+08:00</updated>
+    <id>http://cherishforever.github.io/blog/2017/02/09/di-[?]-pian</id>
+    <content type="html"><![CDATA[<p>昨天刚搭建了自己的博客，搭建的方法，这里就不详细说明了，网上有很多教程，这里推荐一篇<a href="http://blog.leichunfeng.com/blog/2014/11/11/use-octopress-plus-github-pages-to-setup-a-personal-blog/">使用 Octopress+GitHub Pages 搭建个人博客</a>，感谢原作者的分享。</p>
+
+<p>一直想着要记录些什么，无论是生活，还是工作。无奈自己太懒，我又不是一个文笔好的人，所以都没有去付之行动，久而久之便忘记了。</p>
+
+<p>但随着年龄越来越大，人的感悟也越来越多，更希望自己能够留下些什么，经历也好，经验也罢，都是财富。所以现在，我想从这第一篇博客开始，记录自己的点滴，给自己一个新的生活方式，就当是一个人生新篇章！</p>
+]]></content>
+  </entry>
+  
+</feed>
